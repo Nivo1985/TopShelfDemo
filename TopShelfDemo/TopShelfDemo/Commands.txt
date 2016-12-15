@@ -1,0 +1,3 @@
+.\TopShelfDemo help       // for help
+.\TopShelfDemo install    // to install
+.\TopShelfDemo uninstall  // to remove
